@@ -46,3 +46,4 @@ $api_key = ""; //API Key
 		$OutPut = $res["message"];
 		echo $OutPut;
 	}
+?>
