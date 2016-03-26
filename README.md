@@ -1,1 +1,5 @@
-# php-sample
+# Requirements
+- PHP cURL
+- IonCube Loader 
+- 
+
